@@ -1,7 +1,7 @@
-[![MasterHead](width="900")(https://c4.wallpaperflare.com/wallpaper/39/346/426/digital-art-men-city-futuristic-night-hd-wallpaper-preview.jpg )](https://www.wallpaperflare.com/)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/39/346/426/digital-art-men-city-futuristic-night-hd-wallpaper-preview.jpg)](https://www.wallpaperflare.com/)
 <h1 align="center">Hi 👋, I'm Soorya Marri</h1>
 <h3 align="center">A Passionate AI-ML and Full Stack Developer from India!</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/tony-stark.gif">
+<img align="right" alt="Coding" width="200" height="250" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/tony-stark.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-sai-soorya" alt="m-sai-soorya" /></a> </p>
 
