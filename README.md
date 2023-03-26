@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soorya Marri</h1>
 <h3 align="center">A Passionate AI-ML and Full Stack Developer from India!</h3>
-<img align="right" alt="Coding" width="800" height="450" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/tony-stark.gif">
+<img align="right" alt="Coding" width="400" height="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/tony-stark.gif">
 
 
 
