@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate AI-ML and Full Stack Developer from India!</h3>
 <img align="right" alt="Coding" width="800" height="450" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/tony-stark.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-sai-soorya" alt="m-sai-soorya" /></a> </p>
+
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
