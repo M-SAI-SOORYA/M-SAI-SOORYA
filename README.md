@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **React, ML, C++**
+- 💬 Ask me about **React, ML, C++, JAVA, Transformers**
 
 - 📫 How to reach me **sooryamarri@gmail.com**
 
