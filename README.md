@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soorya Marri</h1>
-<h3 align="center">A Passionate Full Stack Developer and AI-ML from India!</h3>
+<h3 align="center">A Passionate Full Stack Developer and AI-ML from India!
+I am also an Open Source Developer for Fun!</h3>
 
 
 
