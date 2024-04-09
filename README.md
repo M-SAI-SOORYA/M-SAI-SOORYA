@@ -12,6 +12,8 @@ I am also an Open Source Developer for Fun!</h3>
 
 - ⚡ Fun fact **It snows in the Sahara Desert:)**
 
+- 🌱 Hacktoberfest **Participated in Hacktoberfest 2023 and all my PRs accepted**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soorya marri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soorya marri" height="30" width="40" /></a>
