@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soorya Marri</h1>
-<h3 align="center">A Passionate AI-ML and Full Stack Developer from India!</h3>
+<h3 align="center">A Passionate Full Stack Developer and AI-ML from India!</h3>
 
 
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **React, ML, C++, JAVA, Transformers**
+- 💬 Ask me about **MERN , ML, C++, JAVA, Transformers**
 
 - 📫 How to reach me **sooryamarri@gmail.com**
 
